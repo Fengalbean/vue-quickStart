@@ -13,7 +13,9 @@
     "vue": "^2.1.0",
     "vue-awesome-swiper": "^2.2.6",
     "vue-axios": "^1.2.2",
-    "vue-infinite-loading": "^1.1.4"
+    "vue-infinite-loading": "^1.1.4",
+    "vue-jsonp": "^0.1.8",
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
